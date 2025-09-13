@@ -4,7 +4,7 @@ public class largestoftwonumbers {
     public static void main(String[] args) {
         Scanner input= new Scanner(System.in);
         System.out.println("Welcome to program to find the largest of two numbers in java");
-        System.out.println("");
+//        System.out.println("");
         int num1= input.nextInt();
        int num2= input.nextInt();
         if (num1 == num2) {
